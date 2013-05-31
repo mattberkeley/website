@@ -11,7 +11,7 @@ Redo design - make it responsive
 Content
 ------
 
-	- Add LaTeX examples
-	- Add link to Github
-	- Update about page
+* Add LaTeX examples
+* Add link to Github
+* Update about page
 
