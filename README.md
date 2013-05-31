@@ -1,4 +1,4 @@
-website
+Matt Ginelli's Website
 =======
 
-my personal website
+This is my personal website, found [here](www.mattginelli.com/).  
