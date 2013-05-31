@@ -112,10 +112,8 @@ div#sideimage{
 #sideimage {
 	float: right;
 	width: 25%;
-	border: 3px solid #3d3d3d;
 	margin-top: 5%;
-
-
+	z-index:1;
 }
 
 p {
